@@ -26,7 +26,7 @@ from translate import Translator  # 导入Translator类,用于文本翻译
 urls = [
        
        'https://live.iptv365.org/live.txt',
-       '',
+       'http://jianhan.vip/yzt91220/幻影直播.txt',
        '',
        '',
        '',
