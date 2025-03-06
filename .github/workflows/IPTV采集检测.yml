@@ -31,7 +31,7 @@ jobs:
           #python ${{ github.workspace }}/py/测绘站采集.py   
           #python ${{ github.workspace }}/py/GAT.py     
           #python ${{ github.workspace }}/py/更新文件名.py     
-          #python ${{ github.workspace }}/py/酒店源255.py     
+          python ${{ github.workspace }}/py/酒店源255.py     
       - name: 提交更改
         run: |
           git config --local user.email "772109739@qq.com"
