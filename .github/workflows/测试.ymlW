@@ -26,11 +26,12 @@ jobs:
           pip install selenium requests futures eventlet opencv-python Beautifulsoup4 translate termcolor func_timeout replace input opencc pypinyin pytz tqdm
       - name: Run py
         run: | 
-          python ${{ github.workspace }}/py/GAT.py      
+          python ${{ github.workspace }}/py/GAT.py 
+          python ${{ github.workspace }}/py/酒店源255.py 
       - name: 提交更改
         run: |
-          git config --local user.email "actions@163.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "772109739@qq.com"
+          git config --local user.name "IPTV3-1"
           #git reset --hard origin/main
           git add .
           git commit -m "Add generated file"
