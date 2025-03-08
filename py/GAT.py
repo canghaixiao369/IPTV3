@@ -12,6 +12,7 @@ import time
 ## 定义txt文件的URL列表
 urls = [
        'https://live.iptv365.org/live.txt',
+       'http://jianhan.vip/yzt91220/幻影直播.txt',
        '',
        '',
        '',
