@@ -3737,22 +3737,30 @@ http://aktv_stream1.m16tv.cfd/stream/aktv/tvbs-1/AKTV.m3u8
 https://stream1.freetv.fun/huan-yu-xin-wen-5.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/台视新闻台.png" group-title="2025/03/07 10:44更新",台视新闻台
 https://stream1.freetv.fun/tai-shi-xin-wen-7.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/东森电影台.png" group-title="港澳频道",东森电影台
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/东森电影台.png" group-title="2025/03/08 10:15更新",东森电影台
 http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVBJ1综合高.png" group-title="港澳频道",TVBJ1综合高
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVBJ1综合高.png" group-title="2025/03/08 10:15更新",TVBJ1综合高
 http://cdn5.1678520.xyz/live/?id=j1
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVBJ2.png" group-title="港澳频道",TVBJ2
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/TVBJ2.png" group-title="2025/03/08 10:15更新",TVBJ2
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/翡翠台版TVBJ1.png" group-title="港澳频道",翡翠台版TVBJ1
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/翡翠台版TVBJ1.png" group-title="2025/03/08 10:15更新",翡翠台版TVBJ1
 http://php.jdshipin.com/TVOD/iptv.php?id=j1
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/凤凰香港频高.png" group-title="港澳频道",凤凰香港频高
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/凤凰香港频高.png" group-title="2025/03/08 10:15更新",凤凰香港频高
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/天映经典频标.png" group-title="港澳频道",天映经典频标
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/天映经典频标.png" group-title="2025/03/08 10:15更新",天映经典频标
 http://php.jdshipin.com/smt.php?id=Celestial2
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/天映频标.png" group-title="港澳频道",天映频标
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/天映频标.png" group-title="2025/03/08 10:15更新",天映频标
 http://php.jdshipin.com/smt.php?id=Celestial
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/无线娱乐频标.png" group-title="港澳频道",无线娱乐频标
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/无线娱乐频标.png" group-title="2025/03/08 10:15更新",无线娱乐频标
 http://php.jdshipin.com/smt.php?id=Tvbentertainment
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/东森电影台.png" group-title="港澳频道",东森电影台
+https://stream1.freetv.fun/dong-sen-dian-ying-7.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
+https://stream1.freetv.fun/4e695e885cc20b20b7e3ec874fe52ed75e27443778c8ff29e498c4c9d7cec4a0.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
+https://stream1.freetv.fun/91dffd2dca60b65821a94747f2f3020dfc9642bb89f86ed7fa6d8b0b7487c5d2.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/中天综合台.png" group-title="港澳频道",中天综合台
+http://50.7.234.10:8278/ctizhonghe/playlist.m3u8?ct=19193&tid=MBBB1520797915207979&tsum=3a6f7f0c591c2ec6678d51b741f290b2
 
-#EXTINF:-1 group-title="2025/03/09 10:24更新",虚情的爱
+#EXTINF:-1 group-title="2025/03/10 10:23更新",虚情的爱
 https://vd2.bdstatic.com/mda-mi1dd05gmhwejdwn/sc/cae_h264/1630576203346678103/mda-mi1dd05gmhwejdwn.mp4
