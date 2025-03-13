@@ -3761,38 +3761,54 @@ https://stream1.freetv.fun/4e695e885cc20b20b7e3ec874fe52ed75e27443778c8ff29e498c
 https://stream1.freetv.fun/91dffd2dca60b65821a94747f2f3020dfc9642bb89f86ed7fa6d8b0b7487c5d2.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/中天综合台.png" group-title="2025/03/09 10:24更新",中天综合台
 http://50.7.234.10:8278/ctizhonghe/playlist.m3u8?ct=19193&tid=MBBB1520797915207979&tsum=3a6f7f0c591c2ec6678d51b741f290b2
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/东森电影台.png" group-title="港澳频道",东森电影台
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/东森电影台.png" group-title="2025/03/10 10:23更新",东森电影台
 http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/东森电影台.png" group-title="港澳频道",东森电影台
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/东森电影台.png" group-title="2025/03/10 10:23更新",东森电影台
 https://haoyunlai.serv00.net/Smartv-1.php?id=ettvmovie
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/龙华电影频高.png" group-title="港澳频道",龙华电影频高
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/龙华电影频高.png" group-title="2025/03/10 10:23更新",龙华电影频高
 https://cdn8.163189.xyz/live/lhdy/stream.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/龙华戏剧频高.png" group-title="港澳频道",龙华戏剧频高
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/龙华戏剧频高.png" group-title="2025/03/10 10:23更新",龙华戏剧频高
 https://cdn8.163189.xyz/live/lhxj/stream.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="2025/03/10 10:23更新",凤凰中文
 https://stream1.freetv.fun/feng-huang-zhong-wen-2.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/寰宇新闻台.png" group-title="港澳频道",寰宇新闻台
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/寰宇新闻台.png" group-title="2025/03/10 10:23更新",寰宇新闻台
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-14/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/龙华经典频高.png" group-title="港澳频道",龙华经典频高
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/龙华经典频高.png" group-title="2025/03/10 10:23更新",龙华经典频高
 https://cdn8.163189.xyz/live/lhjd/stream.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/龙华卡通频高.png" group-title="港澳频道",龙华卡通频高
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/龙华卡通频高.png" group-title="2025/03/10 10:23更新",龙华卡通频高
 https://cdn8.163189.xyz/live/lhkt/stream.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/龙华偶像频高.png" group-title="港澳频道",龙华偶像频高
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/龙华偶像频高.png" group-title="2025/03/10 10:23更新",龙华偶像频高
 https://cdn8.163189.xyz/live/lhox/stream.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/龙华日韩频高.png" group-title="港澳频道",龙华日韩频高
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/龙华日韩频高.png" group-title="2025/03/10 10:23更新",龙华日韩频高
 https://cdn8.163189.xyz/live/lhrh/stream.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/民视第一台.png" group-title="港澳频道",民视第一台
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/民视第一台.png" group-title="2025/03/10 10:23更新",民视第一台
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/民视综艺台.png" group-title="港澳频道",民视综艺台
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/民视综艺台.png" group-title="2025/03/10 10:23更新",民视综艺台
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-16/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/台视.png" group-title="港澳频道",台视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/台视.png" group-title="2025/03/10 10:23更新",台视
 https://haoyunlai.serv00.net/Smartv-1.php?id=ttv_taiwan
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/天映经典台.png" group-title="港澳频道",天映经典台
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/天映经典台.png" group-title="2025/03/10 10:23更新",天映经典台
 https://haoyunlai.serv00.net/Smartv-1.php?id=Celestial2
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/天映经典台.png" group-title="港澳频道",天映经典台
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/天映经典台.png" group-title="2025/03/10 10:23更新",天映经典台
 https://haoyunlai.serv00.net/Smartv-1.php?id=Celestialindo
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/天映经典台.png" group-title="港澳频道",天映经典台
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/天映经典台.png" group-title="2025/03/10 10:23更新",天映经典台
 https://haoyunlai.serv00.net/Smartv-1.php?id=Celestial
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/龙华电影台.png" group-title="港澳频道",龙华电影台
+http://aktv_stream1.m16tv.cfd/stream/aktv/null-23/AKTV.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/龙华电影台.png" group-title="港澳频道",龙华电影台
+http://aktv_stream1.m16tv.cfd/stream/taiwan/null-8/AKTV.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/民视.png" group-title="港澳频道",民视
+http://aktv_stream1.m16tv.cfd/stream/taiwan/null-2/AKTV.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/民视新闻台.png" group-title="港澳频道",民视新闻台
+http://aktv_stream1.m16tv.cfd/stream/taiwan/null-12/AKTV.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/三立综合台.png" group-title="港澳频道",三立综合台
+http://aktv_stream1.m16tv.cfd/stream/taiwan/null-6/AKTV.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/台视新闻台.png" group-title="港澳频道",台视新闻台
+http://aktv_stream1.m16tv.cfd/stream/taiwan/null-15/AKTV.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/纬来体育.png" group-title="港澳频道",纬来体育
+http://aktv_stream1.m16tv.cfd/stream/aktv3/null-1/AKTV.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/中视新闻台.png" group-title="港澳频道",中视新闻台
+http://aktv_stream1.m16tv.cfd/stream/taiwan/null-13/AKTV.m3u8
 
-#EXTINF:-1 group-title="2025/03/12 10:49更新",虚情的爱
+#EXTINF:-1 group-title="2025/03/13 10:46更新",虚情的爱
 https://vd2.bdstatic.com/mda-mi1dd05gmhwejdwn/sc/cae_h264/1630576203346678103/mda-mi1dd05gmhwejdwn.mp4
