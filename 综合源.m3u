@@ -3837,14 +3837,16 @@ https://stream1.freetv.fun/feng-huang-zhong-wen-8.m3u8
 https://stream1.freetv.fun/feng-huang-zi-xun-22.ctv
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/三立台湾台.png" group-title="2025/03/15 10:38更新",三立台湾台
 http://50.7.234.10:8278/sanlitaiwan/playlist.m3u8?tid=MD3D6272113862721138&ct=19344&tsum=67db4abe16d57b8ac1ca573eab42c5e4
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/东森电影台.png" group-title="港澳频道",东森电影台
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/东森电影台.png" group-title="2025/03/17 10:39更新",东森电影台
 https://stream1.freetv.fun/dong-sen-dian-ying-4.ctv
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/东森新闻台.png" group-title="港澳频道",东森新闻台
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/东森新闻台.png" group-title="2025/03/17 10:39更新",东森新闻台
 http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/无线华丽.png" group-title="港澳频道",无线华丽
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/无线华丽.png" group-title="2025/03/17 10:39更新",无线华丽
 https://haoyunlai.serv00.net/Smartv-1.php?id=Tvbjade
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/无线华丽.png" group-title="港澳频道",无线华丽
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/无线华丽.png" group-title="2025/03/17 10:39更新",无线华丽
 https://haoyunlai.serv00.net/Smartv-1.php?id=Wlt
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/八大综合台.png" group-title="港澳频道",八大综合台
+https://stream1.freetv.fun/ba-da-zong-he-4.ctv
 
-#EXTINF:-1 group-title="2025/03/18 10:47更新",虚情的爱
+#EXTINF:-1 group-title="2025/03/19 10:57更新",虚情的爱
 https://vd2.bdstatic.com/mda-mi1dd05gmhwejdwn/sc/cae_h264/1630576203346678103/mda-mi1dd05gmhwejdwn.mp4
