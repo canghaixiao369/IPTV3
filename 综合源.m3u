@@ -3967,6 +3967,14 @@ https://stream1.freetv.fun/feng-huang-zhong-wen-19.ctv
 https://stream1.freetv.fun/mei-ya-dian-ying-3.ctv
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/AXN.png" group-title="2025/04/06 10:51更新",AXN
 http://aktv-stream.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/东森新闻台.png" group-title="港澳频道",东森新闻台
+https://stream1.freetv.fun/dong-sen-xin-wen-8.ctv
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳频道",翡翠台
+https://stream1.freetv.fun/fei-cui-1.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/三立台湾台.png" group-title="港澳频道",三立台湾台
+https://stream1.freetv.fun/san-li-tai-wan-6.ctv
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/纬来体育.png" group-title="港澳频道",纬来体育
+https://stream1.freetv.fun/wei-lai-ti-yu-1.ctv
 
-#EXTINF:-1 group-title="2025/04/08 10:37更新",虚情的爱
+#EXTINF:-1 group-title="2025/04/09 10:41更新",虚情的爱
 https://vd2.bdstatic.com/mda-mi1dd05gmhwejdwn/sc/cae_h264/1630576203346678103/mda-mi1dd05gmhwejdwn.mp4
