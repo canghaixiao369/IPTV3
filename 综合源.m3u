@@ -3991,12 +3991,14 @@ https://stream1.freetv.fun/san-li-xin-wen-1.ctv
 https://stream1.freetv.fun/feng-huang-zi-xun-2.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/民视新闻台.png" group-title="2025/04/10 10:40更新",民视新闻台
 https://stream1.freetv.fun/min-shi-xin-wen-17.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/民视.png" group-title="港澳频道",民视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/民视.png" group-title="2025/04/11 10:41更新",民视
 https://stream1.freetv.fun/min-shi-10.ctv
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/民视.png" group-title="港澳频道",民视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/民视.png" group-title="2025/04/11 10:41更新",民视
 https://stream1.freetv.fun/min-shi-2.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/民视新闻台.png" group-title="港澳频道",民视新闻台
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/民视新闻台.png" group-title="2025/04/11 10:41更新",民视新闻台
 https://stream1.freetv.fun/min-shi-xin-wen-3.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/东森超视.png" group-title="港澳频道",东森超视
+https://stream1.freetv.fun/dong-sen-chao-shi-2.m3u8
 
-#EXTINF:-1 group-title="2025/04/12 10:37更新",虚情的爱
+#EXTINF:-1 group-title="2025/04/13 11:59更新",虚情的爱
 https://vd2.bdstatic.com/mda-mi1dd05gmhwejdwn/sc/cae_h264/1630576203346678103/mda-mi1dd05gmhwejdwn.mp4
