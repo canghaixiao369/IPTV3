@@ -4155,8 +4155,10 @@ http://aktv_stream.m16tv.cfd/stream/aktv2/null-4/AKTV.m3u8
 https://stream1.freetv.fun/1178a02eb676ee58293691fdc19fed767b2dc61d866c1fee41447a8503ec0253.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/美亚电影台HK.png" group-title="2025/04/22 10:50更新",美亚电影台HK
 http://aktv_stream.m16tv.cfd/stream/aktv2/hk/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png" group-title="港澳频道",凤凰香港
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png" group-title="2025/04/24 10:51更新",凤凰香港
 http://aktv_stream.m16tv.cfd/stream/aktv2/null-5/AKTV.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/纬来体育.png" group-title="港澳频道",纬来体育
+http://aktv_stream.m16tv.cfd/stream/aktv5/null/AKTV.m3u8
 
-#EXTINF:-1 group-title="2025/04/25 10:50更新",虚情的爱
+#EXTINF:-1 group-title="2025/04/26 10:43更新",虚情的爱
 https://vd2.bdstatic.com/mda-mi1dd05gmhwejdwn/sc/cae_h264/1630576203346678103/mda-mi1dd05gmhwejdwn.mp4
