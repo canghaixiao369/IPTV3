@@ -4373,14 +4373,22 @@ http://50.7.234.10:8278/xingwei_movie/playlist.m3u8?tid=MBDB4578128345781283&ct=
 http://50.7.234.10:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/八大综合台.png" group-title="2025/06/24 10:58更新",八大综合台
 http://198.16.100.186:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/家庭影院.png" group-title="港澳频道",家庭影院
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/家庭影院.png" group-title="2025/06/25 11:00更新",家庭影院
 http://221.222.242.239:56787/mgtv/644368373.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/家庭影院.png" group-title="港澳频道",家庭影院
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/家庭影院.png" group-title="2025/06/25 11:00更新",家庭影院
 http://ak6668768.zicp.io:8844/live1046.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/chc家庭影院.png" group-title="港澳频道",chc家庭影院
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/chc家庭影院.png" group-title="2025/06/25 11:00更新",chc家庭影院
 https://stream1.freetv.fun/4530af99822e82cc20d703812cbe49f98facdf419f9a2196f83bfb7943d6b4cd.ctv
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/外国影院.png" group-title="港澳频道",外国影院
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/外国影院.png" group-title="2025/06/25 11:00更新",外国影院
 http://ygbh.site/php/bfgd.php?id=291
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/家庭影院.png" group-title="港澳频道",家庭影院
+http://120.27.137.46:10086/mgtv/644368373.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/东森电影台.png" group-title="港澳频道",东森电影台
+https://s2.m16tv.cfd/aktv2/CH-1/AKTV.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/天映电影台.png" group-title="港澳频道",天映电影台
+https://s1.m16tv.cfd/aktv2/CH-3/AKTV.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/天映电影台.png" group-title="港澳频道",天映电影台
+https://s2.m16tv.cfd/aktv2/CH-3/AKTV.m3u8
 
-#EXTINF:-1 group-title="2025/06/26 10:56更新",虚情的爱
+#EXTINF:-1 group-title="2025/06/27 11:06更新",虚情的爱
 https://vd2.bdstatic.com/mda-mi1dd05gmhwejdwn/sc/cae_h264/1630576203346678103/mda-mi1dd05gmhwejdwn.mp4
