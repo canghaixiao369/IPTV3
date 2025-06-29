@@ -4389,8 +4389,30 @@ https://s2.m16tv.cfd/aktv2/CH-1/AKTV.m3u8
 https://s1.m16tv.cfd/aktv2/CH-3/AKTV.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/天映电影台.png" group-title="2025/06/26 10:56更新",天映电影台
 https://s2.m16tv.cfd/aktv2/CH-3/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/动作电影台.png" group-title="港澳频道",动作电影台
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/动作电影台.png" group-title="2025/06/27 11:06更新",动作电影台
 http://templaralone.asuscomm.com:35455/mgtv/644368714.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/3D影院.png" group-title="港澳频道",3D影院
+http://ygbh.site/php/bfgd.php?id=298
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/家庭影院.png" group-title="港澳频道",家庭影院
+http://101.33.125.212:1008/mgtv/644368373.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/超级电影台.png" group-title="港澳频道",超级电影台
+http://111.43.126.240:9003/hls/85/index.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/电影_喜乐影院.png" group-title="港澳频道",电影_喜乐影院
+http://cfss.cc/cdn/hy/21059580.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/动作电影台.png" group-title="港澳频道",动作电影台
+http://111.43.126.240:9003/hls/75/index.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/贺岁电影台.png" group-title="港澳频道",贺岁电影台
+http://cfss.cc/cdn/hy/11601986.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/黄渤电影台.png" group-title="港澳频道",黄渤电影台
+http://cfss.cc/cdn/hy/11352876.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/龙华电影台.png" group-title="港澳频道",龙华电影台
+http://198.16.100.186:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/绍兴电影台.png" group-title="港澳频道",绍兴电影台
+http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/午夜影院.png" group-title="港澳频道",午夜影院
+http://ygbh.site/php/bfgd.php?id=294
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/新昌电影台.png" group-title="港澳频道",新昌电影台
+http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 
-#EXTINF:-1 group-title="2025/06/28 11:01更新",虚情的爱
+#EXTINF:-1 group-title="2025/06/29 11:09更新",虚情的爱
 https://vd2.bdstatic.com/mda-mi1dd05gmhwejdwn/sc/cae_h264/1630576203346678103/mda-mi1dd05gmhwejdwn.mp4
