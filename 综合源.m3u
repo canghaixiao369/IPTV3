@@ -4421,8 +4421,12 @@ http://www.mfykeke.top:35455/mgtv/644368373.m3u8
 https://smart.pendy.dpdns.org/Smart.php?id=eyetvxiju_twn
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/影迷电影台.png" group-title="2025/07/03 10:58更新",影迷电影台
 http://183.135.120.18:12345/mgtv/952383261.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/家庭影院.png" group-title="港澳频道",家庭影院
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/家庭影院.png" group-title="2025/07/04 10:56更新",家庭影院
 http://183.135.120.18:12345/mgtv/644368373.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/影迷电影台.png" group-title="港澳频道",影迷电影台
+http://119.96.108.140:8001/mgtv/952383261.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/美亚电影台.png" group-title="港澳频道",美亚电影台
+https://smart.pendy.dpdns.org/Smart.php?id=meiyamovie_twn
 
-#EXTINF:-1 group-title="2025/07/05 10:52更新",虚情的爱
+#EXTINF:-1 group-title="2025/07/06 11:05更新",虚情的爱
 https://vd2.bdstatic.com/mda-mi1dd05gmhwejdwn/sc/cae_h264/1630576203346678103/mda-mi1dd05gmhwejdwn.mp4
